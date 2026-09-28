@@ -4,7 +4,7 @@ A simple AI chatbot for WhatsApp built using Python, Flask, Groq, and Twilio.
 
 ## 📸 Demo
 
-![WhatsApp AI Assistant](screenshotsScreenshot 2026-09-28 214056.png)
+![WhatsApp AI Assistant](Screenshot%202026-09-28%20214056.png)
 
 ## ✨ Features
 
