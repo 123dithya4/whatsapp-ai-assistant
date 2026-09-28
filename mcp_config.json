@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "database-learning-server": {
+      "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+      "args": [
+        "C:\\Users\\admin\\Documents\\Learning projects\\mcp server\\server.py"
+      ]
+    },
+    "weather-data-server": {
+      "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+      "args": [
+        "C:\\Users\\admin\\Documents\\Learning projects\\weather\\weather.py"
+      ]
+    },
+    "twilio": {
+      "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+      "args": [
+        "C:\\Users\\admin\\Documents\\Learning projects\\twilio\\twilio_mcp_server.py"
+      ]
+    }
+  }
+}
